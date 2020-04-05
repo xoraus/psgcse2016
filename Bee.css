@@ -1,3 +1,8 @@
+button {
+    margin:auto;
+    display:block;
+  }
+
 body {
     background-color: #FFF59D;
     overflow: hidden;
